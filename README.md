@@ -9,6 +9,10 @@ So, we propose a methodology using Machine Learning models to predict the prices
 Notebook outline:
 
 Step 1,  Collect the data about used cars, identify important features that reflect the price.
+
 Step 2,  Preprocess and remove entries with NA values. Discard features that are not relevant for the prediction of the price.
+
 Step 3,  Apply ML models on the preprocessed dataset with features as inputs and the price as output.
+
 step 4,  Deploy model in to heroku cloud.
+
